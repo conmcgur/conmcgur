@@ -1,17 +1,11 @@
 body {
-font-size: 16px; 
-color: black;
+background-color: rgb(5, 87, 90);
+Color: white
+Padding: 40px;
+
 }
-/* Style the H1 heading */
-h1 {
-font-size: 36px; 
-color: grey; 
-font-weight: bold;   
-}
-    
-/* Style the H2 and H3 headings */  
-h2, h3 {   
-font-size: 24px;   
-color: blue;   
-font-weight: bold;
+
+ul {
+    border: 1px solid black;
+    padding: 20px;
 }
